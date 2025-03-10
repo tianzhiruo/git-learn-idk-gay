@@ -10,3 +10,4 @@ int main(void) {
 int print(char *str) {
     printf("%s", str);
 }
+
